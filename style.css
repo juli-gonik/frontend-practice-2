@@ -92,11 +92,11 @@ body::after {
   text-align: center;
 }
 
-.card-container ul li h2{
+.card-container ul li h1 {
   margin-bottom: 5px;
 }
 
-.card-container ul li p{
+.card-container ul li p {
   font-size: 10px;
 }
 
@@ -112,7 +112,7 @@ body::after {
   font-size: 14px;
 }
 
-.content p, h2 span {
+.content p, h1 span {
   font-weight: 400;
   color: hsl(0, 0%, 59%);
 }
