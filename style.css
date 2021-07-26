@@ -112,7 +112,7 @@ body::after {
   font-size: 14px;
 }
 
-.content p, h1 span {
+.content p, .content h1 span {
   font-weight: 400;
   color: hsl(0, 0%, 59%);
 }
